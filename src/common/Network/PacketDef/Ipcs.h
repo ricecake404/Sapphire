@@ -180,7 +180,7 @@ namespace Sapphire::Network::Packets
 
     HuntingLogEntry = 0x01B3, // updated 5.0
 
-    EventPlay = 0x0279, // updated 5.18
+    EventPlay = 0x0297, // updated 5.18
     EventPlay4 = 0x02F7, // updated 5.18
     EventPlay8 = 0x0119, // updated 5.18
     EventPlay16 = 0x01FB, // updated 5.18
